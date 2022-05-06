@@ -1,4 +1,4 @@
-### Hey 👋
+### Hey 👩🏻‍💻
 
 - 💪 Python é minha lingua mãe.
 - 🌱 Estou aprendendo Java no momento.
