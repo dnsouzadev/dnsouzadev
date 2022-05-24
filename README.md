@@ -1,7 +1,7 @@
 ### Hey 👩🏻‍💻
 
 - 💪 Python é minha lingua mãe.
-- 🌱 Estou aprendendo Java no momento.
+- 🌱 Estou aprendendo React no momento.
 - 📫 Contate-me no email: workdsouzadev@gmail.com
 
 <div align="center">
