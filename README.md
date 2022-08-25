@@ -1,8 +1,8 @@
 ### Hey 👩🏻‍💻
 
-- 🌱 Integrando no universo JavaScript atualmente
+- 👩🏻‍💻 BackEnd Developer
+- 🌱 NodeJs, PHP, Python
 - 📫 Contate-me no email: workdndsza@gmail.com
-- 👩🏻‍💻 Junior Developer NodeJs, PHP, Python
 
 <hr>
 <div>
