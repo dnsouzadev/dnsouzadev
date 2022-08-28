@@ -1,6 +1,6 @@
 ### Hey 👩🏻‍💻
 
-- 👩🏻‍💻 BackEnd Developer
+- 👩🏻‍💻 BackEnd Developer Junior
 - 🌱 NodeJs, PHP, Python
 - 📫 Contate-me no email: workdndsza@gmail.com
 
