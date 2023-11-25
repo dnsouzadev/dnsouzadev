@@ -1,14 +1,13 @@
 ### Hey 👩🏻‍💻
 
 - 👩🏻‍💻 Looking for the first job. estagio/trainee/devjr.
-- - Java | Spring Boot | JPA | MySql | MongoDB
+- 👩🏻‍💻 Java | Spring Boot | JPA 
 <hr>
   <div style="display: inline_block"><br>
   <img align="center" alt="dn-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="dn-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="dn-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="dn-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="dn-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 ## Meus contatos:
@@ -21,6 +20,6 @@
 
 <hr>
 
-</div> -->
+</div> 
 
 
