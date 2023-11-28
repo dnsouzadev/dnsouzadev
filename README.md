@@ -19,7 +19,17 @@
 
 
 <hr>
-<hr>
-</div> 
+<div>
+  <table style="margin: 0 auto;" align="center">
+    <tr>
+      <td>
+        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=dnsouzadev&theme=react&hide_border=false&exclude_days=Sun%2CSa"/>
+      </td>
+      <td>
+        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnsouzadev&layout=compact&theme=react&count_private=false"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
