@@ -33,8 +33,6 @@
   ![HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)
 
 
-
-
 <hr>
 <div>
   <table style="margin: 0 auto;" align="center">
