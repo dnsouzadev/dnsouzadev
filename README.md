@@ -1,7 +1,6 @@
-# Hey 👩🏻‍💻
 
-- Python | Django
-- Java | Spring Boot
+# - Python | Django
+# - Java | Spring Boot
 
 ## My Contacts:
 
