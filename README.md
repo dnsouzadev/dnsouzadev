@@ -1,27 +1,57 @@
-# Hey
+<h1 align="left">Hey 👋 What's up?</h1>
 
-- Python | Django | Flask
-- Java | Spring Boot
+###
 
-## My Contacts:
+<p align="left">My name is Daniel and I'm a Software Developer, from Brazil.</p>
 
-<p align="left">
-<a href="mailto:workdndsza@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-gray?style=flat-square&labelColor=white&logo=gmail&logoColor=gray&link=mailto:workdndsza@gmail.com" />
-</a>
+###
 
-<a href="https://discord.gg/dnsouzadev" alt="Discord">
-  <img src="https://img.shields.io/badge/-Discord-gray?style=flat-square&labelColor=gray&logo=discord&logoColor=white&link=https://discord.gg/dnsouzadev"/>
-</a>
+<h2 align="left">About me</h2>
 
-<a href="https://www.linkedin.com/in/dnsouzadev" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-gray?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dnsouzadev"/>
-</a>
-</p>
+###
 
-## Languages
+<p align="left">📚 I'm currently learning React and Django</p>
 
-![Python](https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=CoffeeScript)
-![JavaScript](https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=JavaScript)
+###
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/dnsouzadev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/1016543014576992276" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="mailto:workdndsza@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dnsouzadev&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
