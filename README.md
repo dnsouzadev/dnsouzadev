@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Daniel and I'm a Software Developer, from Brazil.</p>
+<p align="left">My name is Daniel and I'm a Software Developer, from Brazil. </p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning React and Django</p>
+<p align="left">📚 I'm currently learning React and Spring. </p>
 
 ###
 
