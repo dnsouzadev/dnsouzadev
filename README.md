@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning React and Spring. </p>
+<p align="left">📚 I'm currently learning Java and Spring. </p>
 
 ###
 
