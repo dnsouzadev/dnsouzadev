@@ -1,20 +1,20 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1>Hey 👋 What's up?</h1>
 
 ###
 
-<p align="center">My name is Daniel and I'm from Brazil. </p>
+<p>My name is Daniel and I'm from Brazil. </p>
 
 ###
 
-<h2 align="center">About me</h2>
+<h2>About me</h2>
 
 ###
 
-<p align="center">📚 I'm currently learning Java and Spring. </p>
+<p>📚 I'm currently learning Java and Spring. </p>
 
 ###
 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/dnsouzadev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -28,20 +28,20 @@
 
 ###
 
-<h2 align="center">I code with</h2>
+<h2>I code with</h2>
 
 ###
 
-<div align="center">
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
