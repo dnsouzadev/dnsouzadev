@@ -18,10 +18,6 @@
 <br>
 <hr />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnsouzadev\&rank_icon=github&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
-
-<hr />
-
 <div> 
   <a href="https://discord.com/users/1016543014576992276" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="mailto:workdndsza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
