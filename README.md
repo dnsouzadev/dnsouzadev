@@ -1,10 +1,6 @@
+# Olá, me chamo Daniel ! 
+## Bem vindo ao meu perfil GitHub 👋
 
-###
-
-<p>My name is Daniel and I'm from Brazil. </p>
-
-###
-<hr />
 <h3>I code with</h3>
 
 <div style="display: inline_block"><br>
@@ -18,6 +14,7 @@
 <br>
 <hr />
 
+- 📫 Como entrar em contato comigo:
 <div> 
   <a href="https://discord.com/users/1016543014576992276" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="mailto:workdndsza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
