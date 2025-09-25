@@ -1,10 +1,11 @@
-# Olá, me chamo Daniel ! 
-## Bem vindo ao meu perfil GitHub 👋
+Yet another useless vibe coder...<br/>
+Just kidding, but I am just another useless coder!
 
 
-<h4>Eu desenvolvo com:</h4>
+<h4>My tech:</h4>
 
 <div style="display: inline_block"><br>
+  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,11 +18,11 @@
 <div>
 
 <hr>
-- 📫 Como entrar em contato comigo:
+- 📫 Contact me:
   
 <div> 
   <br>
-  <a href="mailto:dnsouzadev02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:workdndsza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dnsouzadev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <br>
   <hr>
