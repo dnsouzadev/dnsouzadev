@@ -2,6 +2,8 @@ Yet another useless vibe coder...<br/>
 Just kidding, but I am just another useless coder!
 
 
+"I will die for the truth that all men are created equal. We are not red , not blue or gold or grey or obsidian . We are HUMANITY."
+
 <h4>My tech:</h4>
 
 <div style="display: inline_block"><br>
